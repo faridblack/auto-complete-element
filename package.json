@@ -22,7 +22,7 @@
     "dist"
   ],
   "dependencies": {
-    "@github/combobox-nav": "^0.3.0"
+    "@github/combobox-nav": "^0.3.3"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
